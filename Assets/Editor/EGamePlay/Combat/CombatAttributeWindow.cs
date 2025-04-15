@@ -1,6 +1,5 @@
-﻿using UnityEngine.Timeline;
+﻿
 using UnityEngine.Playables;
-
 namespace EGamePlay.Combat
 {
 	using System.Collections;
